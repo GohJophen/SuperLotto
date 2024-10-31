@@ -13,6 +13,8 @@ SOURCES += \
     src\shuffleArray.c \
     src\widget.cpp
 
+INCLUDEPATH += include
+
 HEADERS += \
     include\shuffleArray.h\
     include\widget.h
